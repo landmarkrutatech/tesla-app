@@ -10,9 +10,9 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Technologies The Pride of Africa.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
+<h2 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	           We are raising over 1m millionaires by 2030 all over the world.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
